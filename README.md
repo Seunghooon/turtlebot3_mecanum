@@ -1,9 +1,10 @@
 # Turtlebot3_mecanum
-###Turtlebot3_mecanum
+### Turtlebot3_mecanum
 
 1. Move turtlebot3_mecanum_core package to your Arduino folder.
  - Odometry information
-   <img src="https://github.com/Seunghooon/turtlebot3_mecanum/blob/master/readme_images/turtlebot3_mecanum_odometry.png" width="350">
+
+   <img src="https://github.com/Seunghooon/turtlebot3_mecanum/blob/master/readme_images/turtlebot3_mecanum_odometry.png" width="500">
 
 2. You can draw the map using 'mecanum_teleop_key' code in 'turtlebot3_teleop' package.
 
